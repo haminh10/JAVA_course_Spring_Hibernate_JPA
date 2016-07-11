@@ -1,2 +1,2 @@
 # JAVA_course_Spring_Hibernate_Ui
-JAVA
+The course introduces lastest Java technologies
